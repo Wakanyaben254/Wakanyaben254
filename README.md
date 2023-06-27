@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wakanyaben254
-- 👀 I’m interested in web 3 technology
-- 🌱 I’m currently learning blockchain technology
-- 💞️ I’m looking to collaborate on web 3 technology
+- 👀 I’m tech enthusiast with intresets in full stack software development
+- 🌱 I’m currently learning about diffrent technologies concerning softrware development framework
+- 💞️ I’m looking to collaborate on react,node js ,vue js name it all
 - 📫 How to reach me bensonwakanya4783@gmail.com
 
 <!---
