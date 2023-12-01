@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Wakanyaben254
-- 👀 I’m tech enthusiast with intresets in full stack software development
+- 👀 I’m tech enthusiast with intresets in full stack software development,devops practicess
+- expertise in designing API using express ,testing restful API using postman
 - 🌱 I’m currently learning about diffrent technologies concerning softrware development framework
-- 💞️ I’m looking to collaborate on react,node js ,vue js name it all
+- 💞️ I’m looking to collaborate on react,node js ,typescript js name it all
 - 📫 How to reach me bensonwakanya4783@gmail.com
 
 <!---
